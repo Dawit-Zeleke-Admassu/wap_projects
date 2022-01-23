@@ -1,0 +1,26 @@
+{
+  "name": "wap_projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dawit-Zeleke-Admassu/wap_projects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dawit-Zeleke-Admassu/wap_projects/issues"
+  },
+  "homepage": "https://github.com/Dawit-Zeleke-Admassu/wap_projects#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "morgan": "^1.10.0"
+  }
+}
